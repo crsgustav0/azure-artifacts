@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/crsgustav0/azure-artifacts#readme",
   "dependencies": {
+    "azuresecond": "^1.0.0",
     "teste": "^1.0.0"
   }
 }
